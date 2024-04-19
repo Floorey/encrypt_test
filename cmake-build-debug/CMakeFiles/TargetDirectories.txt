@@ -1,0 +1,3 @@
+/home/lukas/CLionProjects/encrypt_text/cmake-build-debug/CMakeFiles/encrypt_text.dir
+/home/lukas/CLionProjects/encrypt_text/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/lukas/CLionProjects/encrypt_text/cmake-build-debug/CMakeFiles/rebuild_cache.dir
